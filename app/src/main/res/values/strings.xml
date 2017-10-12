@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlogProject</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
